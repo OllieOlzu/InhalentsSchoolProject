@@ -1,0 +1,96 @@
+{
+  "title": "The Midnight Signal",
+  "description": "A short thriller about a lone engineer who intercepts an impossible transmission. Every choice you make shapes the outcome.",
+  "slides": [
+    {
+      "id": 1,
+      "title": "Static in the Dark",
+      "description": "It's 2:47 AM. You're alone in the basement monitoring station when your equipment screams to life — a burst of structured signal on a frequency that should be silent. The pattern repeats three times, then stops. Your supervisor is asleep upstairs.",
+      "question": "What do you do first?",
+      "button1_text": "Record it and wake your supervisor",
+      "button1_link": 2,
+      "button2_text": "Analyse it yourself before telling anyone",
+      "button2_link": 3
+    },
+    {
+      "id": 2,
+      "title": "Eyes Wide Open",
+      "description": "You knock on Dr. Vance's door and she's awake instantly — almost like she was expecting you. She listens to the recording, then goes pale. 'That encoding,' she whispers, 'we buried that protocol in 1987.' She reaches for the phone, then stops. 'If you tell me now — do you trust the people at the top of this chain?'",
+      "question": "How do you answer?",
+      "button1_text": "\"Yes — protocols exist for a reason.\"",
+      "button1_link": 4,
+      "button2_text": "\"No. We handle this ourselves.\"",
+      "button2_link": 5
+    },
+    {
+      "id": 3,
+      "title": "Down the Rabbit Hole",
+      "description": "You spend two hours decoding it alone. It's a set of coordinates — a location forty miles east, in a nature reserve that closed in 1991. Embedded in the signal is a single English phrase: COME BEFORE DAWN. Your heart is hammering. Nobody else knows you received this.",
+      "question": "Do you go?",
+      "button1_text": "Drive to the coordinates immediately",
+      "button1_link": 6,
+      "button2_text": "Send an anonymous tip and stay put",
+      "button2_link": 7
+    },
+    {
+      "id": 4,
+      "title": "The Official Channel",
+      "description": "Dr. Vance makes the call. Within twenty minutes, three black SUVs pull into the parking lot. The agents are professional and polite, but they confiscate every hard drive and ask you to sign a non-disclosure agreement on the spot. By morning, it's as if nothing happened. You never find out what the signal was.",
+      "question": "Case closed — or is it?",
+      "button1_text": "Accept it and move on",
+      "button1_link": 8,
+      "button2_text": "Keep a secret backup you made earlier",
+      "button2_link": 9
+    },
+    {
+      "id": 5,
+      "title": "Two Against the Night",
+      "description": "Dr. Vance locks the door and you spend the next hour working together. The signal resolves into something neither of you expected: a livestream of coordinates updating in real time. Something — or someone — is broadcasting their location, and it's moving toward the city. Fast.",
+      "question": "What's your next move?",
+      "button1_text": "Contact a journalist you trust",
+      "button1_link": 9,
+      "button2_text": "Follow the moving coordinates yourselves",
+      "button2_link": 6
+    },
+    {
+      "id": 6,
+      "title": "Into the Reserve",
+      "description": "You park where the trail ends and walk in by torchlight. At the coordinates sits an antenna array you've never seen before — still warm, humming faintly. Zip-tied to it is a waterproof case. Inside: a hard drive, a handwritten note that reads 'They're listening. Don't let them bury this again.' and a name you recognise from history books.",
+      "question": "You have the evidence. Now what?",
+      "button1_text": "Take it straight to a journalist",
+      "button1_link": 9,
+      "button2_text": "Bring it to the authorities",
+      "button2_link": 4
+    },
+    {
+      "id": 7,
+      "title": "The Anonymous Tip",
+      "description": "You file an encrypted tip through a whistleblower portal and wait. Nothing happens for six days. On day seven a reporter calls your personal number — a number you've never published. 'I know it was you,' she says quietly. 'And I know what's on that drive. Can we meet?'",
+      "question": "Do you meet her?",
+      "button1_text": "Yes — in a public place",
+      "button1_link": 9,
+      "button2_text": "No — cut all contact",
+      "button2_link": 8
+    },
+    {
+      "id": 8,
+      "title": "Silence",
+      "description": "You decide the risk isn't worth it. Months pass. The monitoring station is quietly decommissioned. You're reassigned to a desk role. Sometimes late at night you think about what that signal meant — and who sent it — and whether they're still out there, still transmitting into the dark, hoping someone will finally listen. Nobody did.",
+      "question": "The end. Try again?",
+      "button1_text": "Start over",
+      "button1_link": 1,
+      "button2_text": "Start over",
+      "button2_link": 1
+    },
+    {
+      "id": 9,
+      "title": "The Story Breaks",
+      "description": "The article runs at 6 AM. By noon it's the most-read piece in the publication's history. Congressional hearings are announced within the week. You sit in a glass-walled room beside Dr. Vance and give your testimony, voice steady. Outside, protesters and supporters fill the street. You'll never work in obscurity again — but the signal was real, and now the world knows it.",
+      "question": "The end. Try again?",
+      "button1_text": "Start over",
+      "button1_link": 1,
+      "button2_text": "Start over",
+      "button2_link": 1
+    }
+  ]
+}
