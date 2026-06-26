@@ -5,17 +5,17 @@
     {
       "id": 1,
       "title": "Begining",
-      "description": "You wake up, get ready, and start walking to school. On the way their, you see some people from your school in a scetchy allyway.",
-      "question": "What do you do first?",
-      "button1_text": "Record it and wake your supervisor",
+      "description": "You wake up, get ready, and start walking to school. On the way their, you see some people from your school in a scetchy allyway. They seem to glimpse at you.",
+      "question": "What do you do?",
+      "button1_text": "Look away, keep on walking.",
       "button1_link": 2,
-      "button2_text": "Analyse it yourself before telling anyone",
+      "button2_text": "Stop and turn.",
       "button2_link": 3
     },
     {
       "id": 2,
-      "title": "Eyes Wide Open",
-      "description": "You knock on Dr. Vance's door and she's awake instantly — almost like she was expecting you. She listens to the recording, then goes pale. 'That encoding,' she whispers, 'we buried that protocol in 1987.' She reaches for the phone, then stops. 'If you tell me now — do you trust the people at the top of this chain?'",
+      "title": "Playing it safe",
+      "description": "You carry on walking, keeping out of situations you don't want. Untill, you walk into your schools public bathroom. Some older kids have plastic bags with some weird fluid in there. THey look at your, laughing and being giddy. \"What are you looking at?\"",
       "question": "How do you answer?",
       "button1_text": "\"Yes — protocols exist for a reason.\"",
       "button1_link": 4,
