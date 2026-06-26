@@ -17,17 +17,17 @@
       "title": "Playing it safe",
       "description": "You carry on walking, keeping out of situations you don't want. Untill, you walk into your schools public bathroom. Some older kids have plastic bags with some weird fluid in there. THey look at your, laughing and being giddy. \"What are you looking at?\"",
       "question": "How do you answer?",
-      "button1_text": "\"Yes — protocols exist for a reason.\"",
+      "button1_text": "\"Nothing.\"",
       "button1_link": 4,
-      "button2_text": "\"No. We handle this ourselves.\"",
+      "button2_text": "\"What are you doing?.\"",
       "button2_link": 5
     },
     {
       "id": 3,
-      "title": "Down the Rabbit Hole",
-      "description": "You spend two hours decoding it alone. It's a set of coordinates — a location forty miles east, in a nature reserve that closed in 1991. Embedded in the signal is a single English phrase: COME BEFORE DAWN. Your heart is hammering. Nobody else knows you received this.",
-      "question": "Do you go?",
-      "button1_text": "Drive to the coordinates immediately",
+      "title": "Uh oh...",
+      "description": "\"Come over here, kid. You have a go.\" You look into the allyway to see paint all over their faces and fresh grafiti on the wall. They throw a spray can to you, you catch it instinctively. They say to spray some on your face to sniff.",
+      "question": "What do you do?",
+      "button1_text": "You know you shouldn't, but you figure a sniff won't hurt. These people seem pretty cool...",
       "button1_link": 6,
       "button2_text": "Send an anonymous tip and stay put",
       "button2_link": 7
