@@ -4,8 +4,8 @@
   "slides": [
     {
       "id": 1,
-      "title": "Static in the Dark",
-      "description": "It's 2:47 AM. You're alone in the basement monitoring station when your equipment screams to life — a burst of structured signal on a frequency that should be silent. The pattern repeats three times, then stops. Your supervisor is asleep upstairs.",
+      "title": "Begining",
+      "description": "You wake up, get ready, and start walking to school. On the way their, you see some people from your school in a scetchy allyway.",
       "question": "What do you do first?",
       "button1_text": "Record it and wake your supervisor",
       "button1_link": 2,
